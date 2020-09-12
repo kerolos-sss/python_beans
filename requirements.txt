@@ -1,2 +1,24 @@
-pymongo==3.11.0
-bson
+pymongo==3.11.0bson==0.5.10
+Flask==1.1.2
+Flask-PyMongo==2.3.0
+schema==0.7.3
+## Just in case anything gets broken
+## The following requirements were added by pip freeze:
+# astroid==2.4.2
+# autopep8==1.5.4
+# click==7.1.2
+# contextlib2==0.6.0.post1
+# isort==5.5.2
+# itsdangerous==1.1.0
+# Jinja2==2.11.2
+# lazy-object-proxy==1.4.3
+# MarkupSafe==1.1.1
+# mccabe==0.6.1
+# pycodestyle==2.6.0
+# pylint==2.6.0
+# python-dateutil==2.8.1
+# six==1.15.0
+# toml==0.10.1
+# typed-ast==1.4.1
+# Werkzeug==1.0.1
+# wrapt==1.12.1
